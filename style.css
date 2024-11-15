@@ -1,0 +1,44 @@
+
+/* style.css */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    
+}
+
+.navbar {
+    background-color: #174b01;
+    padding: 10px;
+    text-align: left;
+}
+
+.navbar a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.content {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.content h1 {
+    color: #174b01;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.5;
+    
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
